@@ -31,3 +31,7 @@ flutter run
 ## Stage 10
 
 This stage focuses on testing and finalizing the Flutter unit converter.
+
+## Unit Testing
+
+Unit tests help verify conversion logic and expected results.
