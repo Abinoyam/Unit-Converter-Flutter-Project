@@ -22,3 +22,7 @@ History is kept in memory while the app is running and resets when the app resta
 ## Interface Improvements
 
 Stage 7 continues refining the unit converter interface.
+
+## Responsive Design
+
+The interface is designed to remain usable across different screen sizes.
