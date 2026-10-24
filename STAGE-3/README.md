@@ -2,6 +2,12 @@
 
 A responsive Flutter unit converter supporting length, weight, and temperature.
 
+## Features
+
+- Responsive layout for narrow and wide screens
+- Unit conversion for length, weight, and temperature
+- Input validation and formatted conversion results
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
