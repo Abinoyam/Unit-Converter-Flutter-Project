@@ -29,3 +29,7 @@ The Flutter application keeps its source code organized for maintainability.
 ## User Experience
 
 The application presents unit conversion features through its user interface.
+
+## Testing
+
+Run the project's tests with flutter test from its Flutter project directory.
