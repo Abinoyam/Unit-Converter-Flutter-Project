@@ -522,3 +522,10 @@ The Unit Converter application was progressively enhanced at each stage, making 
 # GITHUB REPOSITORY
 
 https://github.com/Abinoyam/Unit-Converter-Flutter-Project
+
+
+
+## Project Architecture
+
+![Project Architecture](diagram.png)
+
