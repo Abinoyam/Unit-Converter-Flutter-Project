@@ -19,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ## State Management
 
 Stage 5 uses Provider to manage conversion state.
+
+## Conversion Logic
+
+Conversion logic is organized for easier maintenance.
