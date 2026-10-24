@@ -27,3 +27,7 @@ This stage continues the development of the Flutter unit converter.
 ## Application Improvements
 
 The project continues to organize and refine its application code.
+
+## User Interface
+
+The unit converter provides a user interface for selecting units and viewing results.
