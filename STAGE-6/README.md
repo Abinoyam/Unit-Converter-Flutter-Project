@@ -30,3 +30,7 @@ Reusable widgets help keep the converter interface consistent.
 ## Code Organization
 
 Separating widgets improves code readability and maintenance.
+
+## Testing
+
+Run Flutter tests using flutter test from the project directory.
