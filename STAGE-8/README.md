@@ -25,3 +25,7 @@ This stage continues the development and refinement of the Flutter unit converte
 ## Application Structure
 
 The Flutter application keeps its source code organized for maintainability.
+
+## User Experience
+
+The application presents unit conversion features through its user interface.
