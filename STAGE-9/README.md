@@ -23,3 +23,7 @@ If the request fails, check the emulator's internet connection and tap Try Again
 ## Stage 9
 
 This stage continues the development of the Flutter unit converter.
+
+## Application Improvements
+
+The project continues to organize and refine its application code.
