@@ -27,3 +27,7 @@ Conversion logic is organized for easier maintenance.
 ## Screens
 
 The application separates its main screens into individual files.
+
+## Testing
+
+Run tests using flutter test from the Flutter project directory.
