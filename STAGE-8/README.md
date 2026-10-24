@@ -21,3 +21,7 @@ flutter run
 ## Stage 8
 
 This stage continues the development and refinement of the Flutter unit converter.
+
+## Application Structure
+
+The Flutter application keeps its source code organized for maintainability.
