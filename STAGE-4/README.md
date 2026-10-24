@@ -27,3 +27,7 @@ The conversion provider manages conversion-related application state.
 ## User Interface
 
 The application uses separate screens to organize its features.
+
+## Testing
+
+Run Flutter tests with `flutter test` from the project directory.
