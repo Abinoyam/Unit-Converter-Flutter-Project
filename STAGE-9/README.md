@@ -31,3 +31,7 @@ The project continues to organize and refine its application code.
 ## User Interface
 
 The unit converter provides a user interface for selecting units and viewing results.
+
+## Testing
+
+Run Flutter tests with flutter test from the project directory.
