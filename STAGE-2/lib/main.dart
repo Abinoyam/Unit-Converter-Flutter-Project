@@ -1,4 +1,5 @@
 // Stage 2: Basic Flutter application setup.
+// Stage 2
 import 'package:flutter/material.dart';
 
 void main() {
