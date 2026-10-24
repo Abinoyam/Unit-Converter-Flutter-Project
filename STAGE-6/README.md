@@ -18,3 +18,7 @@ flutter run
 ```
 
 History is kept in memory while the app is running and resets when the app restarts.
+
+## Reusable Widgets
+
+Stage 6 organizes reusable UI components into separate widget files.
