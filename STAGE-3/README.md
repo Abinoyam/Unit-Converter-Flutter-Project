@@ -1,4 +1,4 @@
-# my_app
+# Stage 3 - Responsive Unit Converter
 
 A new Flutter project.
 
