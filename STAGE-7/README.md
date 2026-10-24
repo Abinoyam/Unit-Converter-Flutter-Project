@@ -18,3 +18,7 @@ flutter run
 ```
 
 History is kept in memory while the app is running and resets when the app restarts.
+
+## Interface Improvements
+
+Stage 7 continues refining the unit converter interface.
