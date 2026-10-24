@@ -19,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Screens
 
 The application includes Home, Converter, History, and About screens.
+
+## State Management
+
+The conversion provider manages conversion-related application state.
