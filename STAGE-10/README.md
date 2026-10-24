@@ -35,3 +35,7 @@ This stage focuses on testing and finalizing the Flutter unit converter.
 ## Unit Testing
 
 Unit tests help verify conversion logic and expected results.
+
+## Widget Testing
+
+Widget tests help verify Flutter interface behavior.
