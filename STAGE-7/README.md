@@ -30,3 +30,7 @@ The interface is designed to remain usable across different screen sizes.
 ## Code Maintenance
 
 Organized code makes future changes easier to maintain.
+
+## Testing
+
+Run Flutter tests using flutter test.
