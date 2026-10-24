@@ -22,3 +22,7 @@ History is kept in memory while the app is running and resets when the app resta
 ## Reusable Widgets
 
 Stage 6 organizes reusable UI components into separate widget files.
+
+## Converter Interface
+
+Reusable widgets help keep the converter interface consistent.
