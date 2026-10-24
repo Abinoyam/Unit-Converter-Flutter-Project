@@ -1,3 +1,5 @@
+// Stage 1: Dart Basics
+// Learning variables, data types, and basic Dart syntax.
 void main() {
   // 1. Largest of two numbers
   int a = 25;
