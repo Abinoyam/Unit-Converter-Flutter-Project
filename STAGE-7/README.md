@@ -26,3 +26,7 @@ Stage 7 continues refining the unit converter interface.
 ## Responsive Design
 
 The interface is designed to remain usable across different screen sizes.
+
+## Code Maintenance
+
+Organized code makes future changes easier to maintain.
