@@ -26,3 +26,7 @@ Stage 6 organizes reusable UI components into separate widget files.
 ## Converter Interface
 
 Reusable widgets help keep the converter interface consistent.
+
+## Code Organization
+
+Separating widgets improves code readability and maintenance.
