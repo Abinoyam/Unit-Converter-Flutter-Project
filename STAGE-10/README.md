@@ -27,3 +27,7 @@ flutter run
 4. Run `flutter analyze`.
 5. Run `flutter test`.
 6. Reproduce the issue and inspect the widget tree / console logs.
+
+## Stage 10
+
+This stage focuses on testing and finalizing the Flutter unit converter.
