@@ -1,6 +1,6 @@
 # Stage 3 - Responsive Unit Converter
 
-A new Flutter project.
+A responsive Flutter unit converter supporting length, weight, and temperature.
 
 ## Getting Started
 
