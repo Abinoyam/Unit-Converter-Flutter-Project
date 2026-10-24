@@ -23,3 +23,7 @@ Stage 5 uses Provider to manage conversion state.
 ## Conversion Logic
 
 Conversion logic is organized for easier maintenance.
+
+## Screens
+
+The application separates its main screens into individual files.
