@@ -23,3 +23,7 @@ The application includes Home, Converter, History, and About screens.
 ## State Management
 
 The conversion provider manages conversion-related application state.
+
+## User Interface
+
+The application uses separate screens to organize its features.
