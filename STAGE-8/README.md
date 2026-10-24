@@ -17,3 +17,7 @@ flutter run
 
 ## Example
 100 Meters = 0.1 Kilometers.
+
+## Stage 8
+
+This stage continues the development and refinement of the Flutter unit converter.
