@@ -39,3 +39,7 @@ Unit tests help verify conversion logic and expected results.
 ## Widget Testing
 
 Widget tests help verify Flutter interface behavior.
+
+## Running Tests
+
+Run the tests with flutter test from the Flutter project directory.
